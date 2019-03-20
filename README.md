@@ -7,7 +7,7 @@ Design Documentation:[ Kitty Or Doggo? Project Report](https://docs.google.com/d
 
 Original Git:[ Kitty Or Doggo? Git](https://github.com/VVVFO/kitty-or-doggo.git)
 
-Jin An | CS MS | Yale University; Tian Wang | CS MS | Yale University; Qingning Yao | CS MS | Yale University; Angel Zhang | CS MS | Yale University
+Jin An | CS MS | Yale University; Tian Wang | CS MS | Yale University; Qingning Yao | CS BS | Yale University; Angel Zhang | CS MS | Yale University
 
 ## Project Introduction
 ## 1.1 Motivation and Background
