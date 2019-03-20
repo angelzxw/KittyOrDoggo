@@ -5,8 +5,7 @@ Presentation:[ Kitty Or Doggo? Presentation](https://docs.google.com/presentatio
 
 Design Documentation:[ Kitty Or Doggo? Project Report](https://docs.google.com/document/d/16USbMaZ3z7cXQ3zDwXxzpBge3Q9r8tU2Ul9E6j3cU0c/edit?usp=sharing)
 
-Original Git:[ Kitty Or Doggo? Git]
-(https://github.com/VVVFO/kitty-or-doggo.git)
+Original Git:[ Kitty Or Doggo? Git](https://github.com/VVVFO/kitty-or-doggo.git)
 
 Jin An | CS MS | Yale University; Tian Wang | CS MS | Yale University; Qingning Yao | CS MS | Yale University; Angel Zhang | CS MS | Yale University
 
