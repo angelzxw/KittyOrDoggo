@@ -1,11 +1,16 @@
 ## KittyOrDoggo
 This repository contains:
+
 Presentation:[Kitty Or Doggo? Presentation](https://docs.google.com/presentation/d/1AMoVtYK_Xoi3qsslMUUjs7qglIKG-jV50nWwnqvV0Ck/edit?usp=sharing)
+
 Design Documentation:[Kitty Or Doggo? Project Report](https://docs.google.com/document/d/16USbMaZ3z7cXQ3zDwXxzpBge3Q9r8tU2Ul9E6j3cU0c/edit?usp=sharing)
 
 Jin An | CS MS | Yale University
+
 Tian Wang | CS MS | Yale University
+
 Qingning Yao | CS MS | Yale University
+
 Angel Zhang | CS MS | Yale University
 
 ## Project Introduction
