@@ -1,9 +1,9 @@
 ## KittyOrDoggo
 This repository contains:
 
-Presentation:[ Kitty Or Doggo? Presentation](https://docs.google.com/presentation/d/1AMoVtYK_Xoi3qsslMUUjs7qglIKG-jV50nWwnqvV0Ck/edit?usp=sharing)
+Presentation:[ Kitty Or Doggo? Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRoeJ3nLDLxrupi4DI28vTwdkvHhxlKIaq9wYwT0BXNQDAuRyfCPHy8i-luTt_4AKH-kU7dHgOUKBFz/pub?start=true&loop=false&delayms=3000)
 
-Design Documentation:[ Kitty Or Doggo? Project Report](https://docs.google.com/document/d/16USbMaZ3z7cXQ3zDwXxzpBge3Q9r8tU2Ul9E6j3cU0c/edit?usp=sharing)
+Technical Design Documentation:[ Kitty Or Doggo? Project Report](https://docs.google.com/document/d/16USbMaZ3z7cXQ3zDwXxzpBge3Q9r8tU2Ul9E6j3cU0c/edit?usp=sharing)
 
 Original Git:[ Kitty Or Doggo? Git](https://github.com/VVVFO/kitty-or-doggo.git)
 
